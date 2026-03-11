@@ -1,13 +1,14 @@
 # 👋 Hey, I'm Isshin
 
 <!-- ============================================================
-     🔧 EDIT ZONE — Change these links to your own profiles
+     🔧 Upload banner.png to your repo's assets/ folder
+     then update the link below to your GitHub profile URL
      ============================================================ -->
+
+[![Isshin's GitHub Banner](./assets/banner.png)](https://github.com/isshin-2)
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/isshin-2)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/isshin2_)
-
-<!-- ============================================================ -->
 
 ## 🧠 About Me
 
@@ -23,12 +24,12 @@ When I'm not building, I'm gaming or making content about it.
 ## 🔨 Projects
 
 <!-- ============================================================
-     🔧 EDIT ZONE — Replace repo URLs with your actual repos
+     🔧 EDIT ZONE — Add repo cards here when you have public repos.
+     Example:
+     <a href="https://github.com/isshin-2/YOUR_REPO">
+       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=isshin-2&repo=YOUR_REPO&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+     </a>
      ============================================================ -->
-
-
-
-<!-- ============================================================ -->
 
 <br>
 <br>
@@ -36,10 +37,6 @@ When I'm not building, I'm gaming or making content about it.
 ---
 
 ## 📊 GitHub Stats
-
-<!-- ============================================================
-     🔧 EDIT ZONE — Replace YOUR_USERNAME with your GitHub username
-     ============================================================ -->
 
 <a href="https://github.com/isshin-2">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshin-2&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -49,16 +46,12 @@ When I'm not building, I'm gaming or making content about it.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=isshin-2&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB198&bg_color=1A2B34" />
 </a>
 
-<!-- ============================================================ -->
-
 <br>
 <br>
 
 ---
 
 ## 🛠️ Skills
-
-<!-- Core skills shown by default -->
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
@@ -84,7 +77,8 @@ When I'm not building, I'm gaming or making content about it.
 ---
 
 ## 🎮 Currently
-- 📚 Staring 10th grade, targeting **Mechatronics* engineering
+
+- 📚 Starting 10th grade, targeting **Mechatronics** engineering
 - 🖨️ Running an **Ender 3 V3 SE** with OctoPi
 
 ---
