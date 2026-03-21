@@ -1,86 +1,165 @@
-# 👋 Hey, I'm Isshin
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              NERVGEAR INTERFACE · PROFILE v2.077              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ============================================================
-     🔧 Upload banner.png to your repo's assets/ folder
-     then update the link below to your GitHub profile URL
-     ============================================================ -->
+<div align="center">
 
-[![Isshin's GitHub Banner](./assets/banner.png)](https://github.com/isshin-2)
+<!-- ░ REPLACE WITH YOUR BANNER IMAGE ░ -->
+<img src="YOUR_BANNER_URL_HERE" width="100%" alt="SAO Banner"/>
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/isshin-2)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/isshin2_)
+<br/><br/>
 
-## 🧠 About Me
+<samp>
 
-I'm a student passionate about **mechatronics, embedded systems, and building things that actually work**.
-I like bridging the gap between hardware and software — from wiring up a sensor to writing the firmware that reads it.
+```
+╔══════════════════════════════════════════════════════════╗
+║         ◈  N E R V E G E A R   I N T E R F A C E  ◈     ║
+║                  SYSTEM BOOT — v2.077                    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-When I'm not building, I'm gaming or making content about it.
+</samp>
 
-> 🔗 Currently working toward: Engineering @ college in Chennai, TN
+<br/>
 
----
+### ❝ System Call: Initialize User Interface — Link Start! ❞
 
-## 🔨 Projects
+<br/>
 
-<!-- ============================================================
-     🔧 EDIT ZONE — Add repo cards here when you have public repos.
-     Example:
-     <a href="https://github.com/isshin-2/YOUR_REPO">
-       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=isshin-2&repo=YOUR_REPO&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-     </a>
-     ============================================================ -->
+<!-- ░ STATS BADGES — replace URLs ░ -->
+![Profile Views](PROFILE_VIEWS_BADGE_URL)
+![GitHub Followers](FOLLOWERS_BADGE_URL)
+![Stars](STARS_BADGE_URL)
 
-<br>
-<br>
-
----
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/isshin-2">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshin-2&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/isshin-2">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=isshin-2&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB198&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
+</div>
 
 ---
 
-## 🛠️ Skills
+<br/>
 
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Hardware-ESP32-informational?style=flat&logo=espressif&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-CAD-informational?style=flat&logo=autodesk&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-3D_Printing-informational?style=flat&logo=printables&logoColor=white&color=4AB197)
+## 〔 PLAYER DATA 〕
 
-<details>
-<summary>More Skills</summary>
-<br>
+```yaml
+Username  : isshin-2
+Class     : Student Engineer — Embedded Systems & Mechatronics
+Server    : Chennai, Tamil Nadu 🇮🇳
+Status    : ◉ ONLINE  — Building things that shouldn't exist yet
+Quest Log : Astro Desk Robot · Dual-MCU Dev Board · PCB Design
+```
 
-![](https://img.shields.io/badge/Tools-OctoPi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Protocol-I2C-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Protocol-UART-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Protocol-SPI-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-FreeCAD-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
-
-</details>
+<br/>
 
 ---
 
-## 🎮 Currently
+## 〔 SKILL TREE 〕
 
-- 📚 Starting 10th grade, targeting **Mechatronics** engineering
-- 🖨️ Running an **Ender 3 V3 SE** with OctoPi
+```
+◈ System Call! [Generate] [Circuit]   [Etch]!          PCB Design · EasyEDA
+◈ System Call! [Generate] [Firmware]  [Compile]!        Embedded C++ · ESP32 · Arduino
+◈ System Call! [Generate] [Script]    [Execute]!         Python
+◈ System Call! [Generate] [Object]    [Materialize]!    CAD & 3D Printing · Ender 3 V3 SE
+◈ System Call! [Generate] [Automaton] [Synchronize]!    Robotics & Motor Control
+◈ System Call! [Generate] [Signal]    [Propagate]!      LoRa · WiFi · BLE · I2S
+◈ System Call! [Generate] [Mesh]      [Render]!          3D Modelling & Simulation
+```
+
+<br/>
 
 ---
 
-*"Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke*
+## 〔 INVENTORY — ACTIVE QUESTS 〕
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚔ Astro — Desk Robot
+> ESP32-C3 SuperMini · OLED expressions · Touch & voice reactions · Motor behaviours · ToF proximity · WiFi Telnet debug
+
+**Status:** `▓▓▓▓▓▓▒▒░░` In Progress
+
+</td>
+<td width="50%">
+
+### 🛡 Dual-MCU Dev Board
+> Arduino Mega + ESP32-C5 · ILI9341 Touchscreen · IMU · LoRa SX1278 · MAX98357A Audio · BME280 · VL53L0X
+
+**Status:** `▓▓▓▓▓▒▒▒░░` In Progress
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🗡 Voice Command Extension
+> ESP32 + Edge Impulse keyword spotting · INMP441 I2S mic · UDP audio streaming · Offline inference
+
+**Status:** `▓▓▓▒▒▒▒░░░` Planned
+
+</td>
+<td>
+
+### 🏰 Project — YOUR PROJECT HERE
+> Description placeholder
+
+**Status:** `▒▒▒▒▒▒░░░░` Planned
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 〔 SYSTEM STATS 〕
+
+<div align="center">
+
+<!-- ░ REPLACE WITH YOUR STATS CARD URLs ░ -->
+<img src="YOUR_GITHUB_STATS_CARD_URL" height="180"/>
+<img src="YOUR_TOP_LANGS_CARD_URL" height="180"/>
+
+<br/><br/>
+
+<!-- ░ STREAK STATS ░ -->
+<img src="YOUR_STREAK_STATS_URL" width="60%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 〔 FIND ME 〕
+
+<div align="center">
+
+<!-- ░ REPLACE BADGE URLs ░ -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-isshin--2-0d1117?style=for-the-badge&logo=github&logoColor=00c8ff&labelColor=0a0e1a)](https://github.com/isshin-2)
+[![Instagram](https://img.shields.io/badge/Instagram-isshin2__-0d1117?style=for-the-badge&logo=instagram&logoColor=00c8ff&labelColor=0a0e1a)](https://instagram.com/isshin2_)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<samp>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║   [ CONNECTION STABLE ] · [ PING: — ms ] · [ HP: ███ ]  ║
+║           "The only difference between a sword           ║
+║         and a tool is the will of the one who holds it." ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+*FullDive Technology Corp. · NervGear v2.077 · All Rights Reserved*
+
+</samp>
+
+</div>
