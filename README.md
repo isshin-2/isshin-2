@@ -8,17 +8,13 @@
 
 <br/><br/>
 
-
-<br/>
-
 ### ❝ System Call: Initialize User Interface — Link Start! ❞
 
 <br/>
 
-<!-- ░ STATS BADGES — replace URLs ░ -->
-[![Profile Views](PROFILE_VIEWS_BADGE_URL)](https://komarev.com/ghpvc/?username=isshin-2&style=for-the-badge&color=00c8ff&labelColor=0a0e1a&label=PROFILE+VIEWS)
-[![GitHub Followers](FOLLOWERS_BADGE_URL)](https://img.shields.io/github/followers/isshin-2?style=for-the-badge&logo=github&logoColor=00c8ff&labelColor=0a0e1a&color=00c8ff&label=FOLLOWERS)
-[![Stars](STARS_BADGE_URL)](https://img.shields.io/github/stars/isshin-2?style=for-the-badge&logo=github&logoColor=00c8ff&labelColor=0a0e1a&color=00c8ff&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=isshin-2&style=for-the-badge&color=00c8ff&labelColor=0a0e1a&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/isshin-2?style=for-the-badge&logo=github&logoColor=00c8ff&labelColor=0a0e1a&color=00c8ff&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/isshin-2?style=for-the-badge&logo=github&logoColor=00c8ff&labelColor=0a0e1a&color=00c8ff&label=STARS)
 
 </div>
 
@@ -83,14 +79,14 @@ Quest Log : Astro Desk Robot · Verdex Kappa · Agritech Rover · PCB Design
 ### 🌾 Agritech Rover
 > ESP32 · Smart agriculture monitoring · LED status indicators · Wireless sensor node · Field data logging
 
-**Status:** `▓▓▓▒▒▒▒░░░` In Progress
+**Status:** `▓▓▓▒▒▒▒░░░` Planned
 
 </td>
 <td>
 
 ### 🔷 Verdex Kappa — C5 Dev Board
-> Arduino Mega + ESP32-C5 · ILI9341 Touchscreen ·
-> 
+> Arduino Mega + ESP32-C5 · ILI9341 Touchscreen · ICM-42688-P IMU · LoRa SX1278 · MAX98357A Audio · BME280 · VL53L0X
+
 **Status:** `▓▓▓▓▓▒▒▒░░` In Progress
 
 </td>
@@ -105,14 +101,12 @@ Quest Log : Astro Desk Robot · Verdex Kappa · Agritech Rover · PCB Design
 
 <div align="center">
 
-<!-- ░ REPLACE WITH YOUR STATS CARD URLs ░ -->
-[<img src="YOUR_GITHUB_STATS_CARD_URL" height="180"/>](https://github-readme-stats.vercel.app/api?username=isshin-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00c8ff&icon_color=00c8ff)
-[<img src="YOUR_TOP_LANGS_CARD_URL" height="180"/>
-](https://github-readme-stats.vercel.app/api/top-langs/?username=isshin-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00c8ff)
+<img src="https://github-readme-stats.vercel.app/api?username=isshin-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00c8ff&icon_color=00c8ff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshin-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00c8ff" height="180"/>
+
 <br/><br/>
 
-<!-- ░ STREAK STATS ░ -->
-[<img src="YOUR_STREAK_STATS_URL" width="60%"/>](https://streak-stats.demolab.com?user=isshin-2&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff)
+<img src="https://streak-stats.demolab.com?user=isshin-2&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff" width="60%"/>
 
 </div>
 
@@ -139,9 +133,9 @@ Quest Log : Astro Desk Robot · Verdex Kappa · Agritech Rover · PCB Design
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║   [ CONNECTION STABLE ] · [ PING: — ms ] · [ HP: ███ ]   ║
-║   "System Call: Initialize User Interface — Link Start!  ║
-║                                                          ║
+║   [ CONNECTION STABLE ] · [ PING: — ms ] · [ HP: ███ ]  ║
+║  "This may be a virtual world, but I feel more alive     ║
+║         here than in the real world."                    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
