@@ -101,12 +101,11 @@ Quest Log : Astro Desk Robot · Verdex Kappa · Agritech Rover · PCB Design
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=isshin-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00c8ff&icon_color=00c8ff" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshin-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00c8ff" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=isshin-2&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff" width="60%"/>
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=isshin-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00c8ff&icon_color=00c8ff" height="160"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshin-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00c8ff" height="160"/></td>
+<td><img src="https://streak-stats.demolab.com?user=isshin-2&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff" height="160"/></td>
+</tr></table>
 
 </div>
 
