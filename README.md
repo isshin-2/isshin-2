@@ -8,16 +8,6 @@
 
 <br/><br/>
 
-<samp>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║         ◈  N E R V E G E A R   I N T E R F A C E  ◈     ║
-║                  SYSTEM BOOT — v2.077                    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</samp>
 
 <br/>
 
@@ -149,13 +139,11 @@ Quest Log : Astro Desk Robot · Verdex Kappa · Agritech Rover · PCB Design
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║   [ CONNECTION STABLE ] · [ PING: — ms ] · [ HP: ███ ]  ║
-║           "The only difference between a sword           ║
-║         and a tool is the will of the one who holds it." ║
+║   [ CONNECTION STABLE ] · [ PING: — ms ] · [ HP: ███ ]   ║
+║   "System Call: Initialize User Interface — Link Start!  ║
+║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
-*FullDive Technology Corp. · NervGear v2.077 · All Rights Reserved*
 
 </samp>
 
