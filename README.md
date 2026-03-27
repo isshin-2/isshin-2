@@ -132,7 +132,7 @@ Quest Log : Astro Desk Robot · Verdex Kappa · Agritech Rover · PCB Design
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║   [ CONNECTION STABLE ] · [ PING: — ms ] · [ HP: ███ ]  ║
+║   [ CONNECTION STABLE ] · [ PING: — ms ] · [ HP: ███ ]   ║
 ║  "This may be a virtual world, but I feel more alive     ║
 ║         here than in the real world."                    ║
 ╚══════════════════════════════════════════════════════════╝
