@@ -105,11 +105,11 @@ Quest Log : Astro Desk Robot · Verdex Kappa · Agritech Rover · PCB Design
 <tr>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=isshin-2&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=isshin-2&show_icons=true&theme=tokyonight" height="160"/>
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshin-2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshin-2&layout=compact&theme=tokyonight" height="160"/>
 </td>
 
 <td>
