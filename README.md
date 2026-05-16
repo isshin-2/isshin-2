@@ -40,58 +40,13 @@ Quest Log : Astro Desk Robot · Verdex Kappa · Agritech Rover · PCB Design
 
 ```
 ◈ System Call! [Generate] [Circuit]   [Etch]!          PCB Design · EasyEDA
-◈ System Call! [Generate] [Firmware]  [Compile]!        Embedded C++ · ESP32 · Arduino
-◈ System Call! [Generate] [Script]    [Execute]!         Python
-◈ System Call! [Generate] [Object]    [Materialize]!    CAD & 3D Printing · Ender 3 V3 SE
-◈ System Call! [Generate] [Automaton] [Synchronize]!    Robotics & Motor Control
-◈ System Call! [Generate] [Signal]    [Propagate]!      LoRa · WiFi · BLE · I2S
-◈ System Call! [Generate] [Mesh]      [Render]!          3D Modelling & Simulation
+◈ System Call! [Generate] [Firmware] [Compile]!        ESP32 · STM32 · Arduino
+◈ System Call! [Generate] [Script]    [Execute]!       Python
+◈ System Call! [Generate] [Object]    [Materialize]!   CAD & 3D Printing · Ender 3 V3 SE
+◈ System Call! [Generate] [Automaton] [Synchronize]!   Robotics 
+◈ System Call! [Generate] [Signal]    [Propagate]!     WiFi · BLE ·
+◈ System Call! [Generate] [Mesh]      [Render]!        3D Modelling & Simulation
 ```
-
-<br/>
-
----
-
-## 〔 INVENTORY — ACTIVE QUESTS 〕
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚔ Astro — Desk Robot
-> ESP32-C3 SuperMini · OLED expressions · Touch & voice reactions · Motor behaviours · ToF proximity · WiFi Telnet debug
-
-**Status:** `▓▓▓▓▓▓▒▒░░` In Progress
-
-</td>
-<td width="50%">
-
-### 🛡 Dual-MCU Dev Board
-> Arduino Mega + ESP32-C5 · ILI9341 Touchscreen · IMU · LoRa SX1278 · MAX98357A Audio · BME280 · VL53L0X
-
-**Status:** `▓▓▓▓▓▒▒▒░░` In Progress
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🌾 Agritech Rover
-> ESP32 · Smart agriculture monitoring · LED status indicators · Wireless sensor node · Field data logging
-
-**Status:** `▓▓▓▒▒▒▒░░░` Planned
-
-</td>
-<td>
-
-### 🔷 Verdex Kappa — C5 Dev Board
-> Arduino Mega + ESP32-C5 · ILI9341 Touchscreen · ICM-42688-P IMU · LoRa SX1278 · MAX98357A Audio · BME280 · VL53L0X
-
-**Status:** `▓▓▓▓▓▒▒▒░░` In Progress
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -103,14 +58,6 @@ Quest Log : Astro Desk Robot · Verdex Kappa · Agritech Rover · PCB Design
 
 <table>
 <tr>
-
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=isshin-2&show_icons=true&theme=tokyonight" height="160"/>
-</td>
-
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isshin-2&layout=compact&theme=tokyonight" height="160"/>
-</td>
 
 <td>
 <img src="https://streak-stats.demolab.com?user=isshin-2&theme=tokyonight&hide_border=true" height="160"/>
@@ -140,16 +87,3 @@ Quest Log : Astro Desk Robot · Verdex Kappa · Agritech Rover · PCB Design
 
 <div align="center">
 
-<samp>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║   [ CONNECTION STABLE ] · [ PING: — ms ] · [ HP: ███ ]   ║
-║  "This may be a virtual world, but I feel more alive     ║
-║         here than in the real world."                    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</samp>
-
-</div>
